@@ -1,0 +1,7 @@
+Roll No    Name      Marks
+2    absr    30.00
+4    deiop    90.00
+5    swop    20.00
+34    sanjay    24.00
+45    swrt    35.00
+2345    dfggh    15.00
